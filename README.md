@@ -13,22 +13,22 @@ The data is released as a CSV dump. Please note that both the CSV may contain ne
 
 | Header |   Type   |   Description   |   Example    |
 |----------|:---------:|:----------:|:----------:|
-| Title | String | 1, 2, 3, 4, 5, or 6 | Judith Green |
-| Dated | String | 3 | 1963 |
-| Medium | Memo | 101 = stop program | acrylic and silkscreen ink on linen |
-| Object Number | String | stop program | 1998.1.72 |
-| Object ID | Number | give control to second object | 4825 |
-| Credit Line | Memo |  | The Andy Warhol Museum, Pittsburgh; Founding Collection, Contribution The Andy Warhol Foundation for the Visual Arts, Inc. |
-| On View | Number | game over | 0 |
-| Description | Memo | reset | Painting. Black silkscreen ink on bright orange acrylic paint on linen. Portrait of a woman (Judith Green) with dark hair, facing the viewer, smiling, mouth open, head tilted to the right, wearing a turtleneck. Not signed or dated on recto.  Verso unexamined (backing board). |
-| Provenance | Memo | Bob, 100 | Estate of Andy Warhol; The Andy Warhol Foundation for the Visual Arts |
-| Classification | String |  | Paintings |
-| Constituents | String |  | Andy Warhol (artist), Judith Green (depicted) |
-| Last Name | String |  | Warhol |
-| First Name| String |  | Andy |
-| Role | String |  | Primary Maker|
-| Culture Group | String |  | American |
-| CatRais | String || 497 |
+| Title | String | The main title that identifies the object or artwork. | Judith Green |
+| Dated | String | The human readable date of creation for the object. Note that this is a string and may not be a valid date. | 1963 |
+| Medium | Memo | Material of which this object/artwork is made. | acrylic and silkscreen ink on linen |
+| Object Number | String | This is the number assigned by the museum when it takes official ownership of an object. | 1998.1.72 |
+| Object ID | Number | A unique string that identifies the record of the object in the collections database. | 4825 |
+| Credit Line | Memo | Identifies and gives credit to the person, foundation, or method by which the object was acquired. | The Andy Warhol Museum, Pittsburgh; Founding Collection, Contribution The Andy Warhol Foundation for the Visual Arts, Inc. |
+| On View | Number | 0 = no, 1 = yes | 0 |
+| Description | Memo | A physcial description of the object. | Painting. Black silkscreen ink on bright orange acrylic paint on linen. Portrait of a woman (Judith Green) with dark hair, facing the viewer, smiling, mouth open, head tilted to the right, wearing a turtleneck. Not signed or dated on recto.  Verso unexamined (backing board). |
+| Provenance | Memo | The ownership history of an object/artwork.  | Estate of Andy Warhol; The Andy Warhol Foundation for the Visual Arts |
+| Classification | String | The name of a group to which the work belongs within the museum's classification scheme, based on similar characteristics. | Paintings |
+| Constituents | String | Describes a person’s association with this object | Andy Warhol (artist), Judith Green (depicted) |
+| Last Name | String | Last Name of the artist/creator. | Warhol |
+| First Name| String | First Name of the artist/creator. | Andy |
+| Role | String | Describes a person’s involvement with this object. | Primary Maker|
+| Culture Group | String | The nationality of the artist/creator.| American |
+| CatRais | String | Warhol catalogue raisonné number| 497 |
 
 # Usage Guidelines
 The dataset contains the data and metadata of approximately ???? objects in the collection of The Andy Warhol Museum in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. There are a few limitations:
