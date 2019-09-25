@@ -13,17 +13,21 @@ The data is released as a CSV dump. Please note that both the CSV may contain ne
 
 | Header |   Type   |   Description   |   Example    |
 |----------|:---------:|:----------:|:----------:|
-| The program can generate random numbers from 1 to 6.| onClick | 1, 2, 3, 4, 5, or 6 |
-| The program can add.| 1 + 2 | 3 |
-| The program can add >= 100 and stop. | 22 + 23 + 25 + 21 | 101 = stop program |
-| The program can be stopped manually before it reaches 100.| onClick | stop program |
-| The program can be stopped manually before it reaches 100 giving control to a second object (player object). | onClick | give control to second object |
-| The program can be stopped programmatically before it reaches 100 when a random number of 1 is generated, giving control to a second object (player object). | 1 | give control to second object |
-| The program stops when a total of 100+ is reached by either player object. | 100+ | game over |
-| The program can be reset at any time | onClick | reset |
-| Player objects can store player data. | name, score | Bob, 100 |
-
-
+| Title | onClick | 1, 2, 3, 4, 5, or 6 ||
+| Dated | 1 + 2 | 3 ||
+| Medium | 22 + 23 + 25 + 21 | 101 = stop program ||
+| Object Number | onClick | stop program ||
+| Object ID | onClick | give control to second object ||
+| Credit Line | 1 | give control to second object ||
+| On View | 100+ | game over ||
+| Description | onClick | reset ||
+| Provenance | name, score | Bob, 100 ||
+| Classification |  |  ||
+| Constituents |  |  ||
+| Last Name |  |  ||
+| First Name|  |  ||
+| Role |  |  ||
+| Cluture Group |  |  ||
 # Usage Guidelines
 The dataset contains the data and metadata of approximately ???? objects in the collection of The Andy Warhol Museum in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. There are a few limitations:
 
