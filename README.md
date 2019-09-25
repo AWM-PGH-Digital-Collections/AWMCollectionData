@@ -33,7 +33,7 @@ The data is released as a CSV dump. Please note that the CSV file may contain ne
 # Usage Guidelines
 The dataset contains the data and metadata of approximately ???? objects in the collection of The Andy Warhol Museum in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. There are a few limitations: At present, primary artist birth and death dates are not included. These dates are not seperate data fields in our collections management system. Warhol's Time Capsules are not included in this data set.
 
-Please contact us if you have any questions.
+[Please contact us if you have any questions.](mailto:womackb@warhol.org)
 
 # Lack of Images in the Data Set
 Images are not covered under the same license as the dataset.
