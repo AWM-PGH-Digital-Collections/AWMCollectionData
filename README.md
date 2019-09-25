@@ -25,7 +25,7 @@ The data is released as a CSV dump. Please note that both the CSV may contain ne
 
 
 # Usage Guidelines
-The dataset contains the data and metadata of approximately 28269 objects in the collection of Carnegie Museum of Art and another approximately 59031 records from the Teenie Harris Archive in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible.
+The dataset contains the data and metadata of approximately ???? objects in the collection of The Andy Warhol Museum in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. There are a few limitations:
 
 Please contact us if you have any questions.
 
