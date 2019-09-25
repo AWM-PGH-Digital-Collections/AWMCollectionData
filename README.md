@@ -16,7 +16,7 @@ The data is released as a CSV dump. Please note that the CSV file may contain ne
 | Title | String | The main title that identifies the object or artwork. | Judith Green |
 | Dated | String | The human readable date of creation for the object. Note that this is a string and may not be a valid date. | 1963 |
 | Medium | Memo | Material of which this object/artwork is made. | acrylic and silkscreen ink on linen |
-| Object Number | String | This is the number assigned by the museum when it takes official ownership of an object. | 1998.1.72 |
+| Object Number | String | This is the number assigned by the museum when it accessions an object. | 1998.1.72 |
 | Object ID | Number | A unique string that identifies the record of the object in the collections database. | 4825 |
 | Credit Line | Memo | Identifies and gives credit to the person, foundation, or method by which the object was acquired. | The Andy Warhol Museum, Pittsburgh; Founding Collection, Contribution The Andy Warhol Foundation for the Visual Arts, Inc. |
 | On View | Number | 0 = no, 1 = yes | 0 |
