@@ -55,7 +55,7 @@ Thanks!
 Please note that we will not accept pull requests for the data in this repository. If you have corrections, please email them to us at mailto:womackb@warhol.org and we will forward them to the appropriate department for correction and inclusion in a future release. 
 
 # Attribution
-Our dataset is being offered under CC0 1.0 Universal license: https://creativecommons.org/publicdomain/zero/1.0/
+Our dataset is being offered under [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 We respectfully ask that you acknowledge AWM as a source wherever possible, in order to preserve a link to the dataset. By providing acknowledgement or citation, you enable others to verify, replicate, and further explore your presentation and interpretation of our data.
 
