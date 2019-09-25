@@ -11,8 +11,8 @@ This data release includes nearly all accessioned works in our database. It cont
 
 The data is released as a CSV dump. Please note that both the CSV may contain newlines (\n) within any text field, and they often appear within the provenance, medium and credit_line fields.
 
-| Behavior |   Input   |   Output   |
-|----------|:---------:|:----------:|
+| Header |   Type   |   Description   |   Example    |
+|----------|:---------:|:----------:|:----------:|
 | The program can generate random numbers from 1 to 6.| onClick | 1, 2, 3, 4, 5, or 6 |
 | The program can add.| 1 + 2 | 3 |
 | The program can add >= 100 and stop. | 22 + 23 + 25 + 21 | 101 = stop program |
