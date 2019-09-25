@@ -13,21 +13,22 @@ The data is released as a CSV dump. Please note that both the CSV may contain ne
 
 | Header |   Type   |   Description   |   Example    |
 |----------|:---------:|:----------:|:----------:|
-| Title | String | 1, 2, 3, 4, 5, or 6 ||
-| Dated | String | 3 ||
-| Medium | Memo | 101 = stop program ||
-| Object Number | String | stop program ||
-| Object ID | Number | give control to second object ||
-| Credit Line | Memo | give control to second object ||
-| On View | Number | game over ||
-| Description | Memo | reset ||
-| Provenance | Memo | Bob, 100 ||
-| Classification | String |  ||
-| Constituents | String |  ||
-| Last Name | String |  ||
-| First Name| String |  ||
-| Role | String |  ||
-| Culture Group | String |  ||
+| Title | String | 1, 2, 3, 4, 5, or 6 | Judith Green |
+| Dated | String | 3 | 1963 |
+| Medium | Memo | 101 = stop program | acrylic and silkscreen ink on linen |
+| Object Number | String | stop program | 1998.1.72 |
+| Object ID | Number | give control to second object | 4825 |
+| Credit Line | Memo |  | The Andy Warhol Museum, Pittsburgh; Founding Collection, Contribution The Andy Warhol Foundation for the Visual Arts, Inc. |
+| On View | Number | game over | 0 |
+| Description | Memo | reset | Painting. Black silkscreen ink on bright orange acrylic paint on linen. Portait of a woman (Judith Green) with dark hair, facing the viewer, smiling, mouth open, head tilted to the right, wearing a turtleneck. Not signed or dated on recto.  Verso unexamined (backing board). |
+| Provenance | Memo | Bob, 100 | Estate of Andy Warhol; The Andy Warhol Foundation for the Visual Arts |
+| Classification | String |  | Paintings |
+| Constituents | String |  | Andy Warhol (artist, Judith Green (depicted) |
+| Last Name | String |  | Warhol |
+| First Name| String |  | Andy |
+| Role | String |  | Primary Maker|
+| Culture Group | String |  | American |
+
 # Usage Guidelines
 The dataset contains the data and metadata of approximately ???? objects in the collection of The Andy Warhol Museum in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. There are a few limitations:
 
