@@ -4,7 +4,7 @@
 
 ## In this repository, you will find data that pertains to all accessioned objects in our collection, a description of the data, and some guidelines on using the data. Please take a minute to familiarize yourself with the structure and guidelines below.
 
-Your feedback and input is always welcome. If you’ve got questions or suggestions, please send them to us with “AWM Dataset” in the subject header of you [email](mailto:womackb@warhol.org).
+Your feedback and input is always welcome. If you’ve got questions or suggestions, please send them to us with “AWM Dataset” in the subject header of your [email](mailto:womackb@warhol.org).
 
 # Data Structure
 This data release includes nearly all accessioned works in our database. It contains basic data for each work.
@@ -38,7 +38,7 @@ Please contact us if you have any questions.
 # Lack of Images in the Data Set
 Images are not covered under the same license as the dataset.
 
-If you would like to license images of artworks in AWM’s collection, please contact the Rights and Reproduction Department: mailto:rights@warhol.org
+If you would like to license images of artworks in AWM’s collection, please contact the [Rights and Reproduction Department] (mailto:rights@warhol.org).
 
 # Dataset Integrity
 Collections data is provided for the purposes of exploration, education, experimentation, and fun, but it is to be used at your own risk.
@@ -47,12 +47,12 @@ Please be aware that the dataset may contain incomplete data and/or errors. AWM 
 
 At AWM, research is always ongoing, and so our understanding of these objects and their metadata are subject to change. This dataset will be updated on a regular basis to reflect our current best understanding of the objects. You are advised to use, or update to, the most current version of the dataset for best accuracy.
 
-If you have identified errors in the dataset, or have additional information to add, we welcome your feedback! Please contact us at mailto:womackb@warhol.org.
+If you have identified errors in the dataset, or have additional information to add, we welcome your feedback! [Please contact us.](mailto:womackb@warhol.org).
 
 Thanks!
 
 # Pull Requests
-Please note that we will not accept pull requests for the data in this repository. If you have corrections, please email them to us at mailto:womackb@warhol.org and we will forward them to the appropriate department for correction and inclusion in a future release. 
+Please note that we will not accept pull requests for the data in this repository. If you have corrections, please [email](mailto:womackb@warhol.org) them to us and we will forward them to the appropriate department for correction and inclusion in a future release. 
 
 # Attribution
 Our dataset is being offered under [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/).
