@@ -20,7 +20,7 @@ The data is released as a CSV dump. Please note that both the CSV may contain ne
 | Object ID | Number | give control to second object | 4825 |
 | Credit Line | Memo |  | The Andy Warhol Museum, Pittsburgh; Founding Collection, Contribution The Andy Warhol Foundation for the Visual Arts, Inc. |
 | On View | Number | game over | 0 |
-| Description | Memo | reset | Painting. Black silkscreen ink on bright orange acrylic paint on linen. Portait of a woman (Judith Green) with dark hair, facing the viewer, smiling, mouth open, head tilted to the right, wearing a turtleneck. Not signed or dated on recto.  Verso unexamined (backing board). |
+| Description | Memo | reset | Painting. Black silkscreen ink on bright orange acrylic paint on linen. Portrait of a woman (Judith Green) with dark hair, facing the viewer, smiling, mouth open, head tilted to the right, wearing a turtleneck. Not signed or dated on recto.  Verso unexamined (backing board). |
 | Provenance | Memo | Bob, 100 | Estate of Andy Warhol; The Andy Warhol Foundation for the Visual Arts |
 | Classification | String |  | Paintings |
 | Constituents | String |  | Andy Warhol (artist, Judith Green (depicted) |
