@@ -23,11 +23,12 @@ The data is released as a CSV dump. Please note that both the CSV may contain ne
 | Description | Memo | reset | Painting. Black silkscreen ink on bright orange acrylic paint on linen. Portrait of a woman (Judith Green) with dark hair, facing the viewer, smiling, mouth open, head tilted to the right, wearing a turtleneck. Not signed or dated on recto.  Verso unexamined (backing board). |
 | Provenance | Memo | Bob, 100 | Estate of Andy Warhol; The Andy Warhol Foundation for the Visual Arts |
 | Classification | String |  | Paintings |
-| Constituents | String |  | Andy Warhol (artist, Judith Green (depicted) |
+| Constituents | String |  | Andy Warhol (artist), Judith Green (depicted) |
 | Last Name | String |  | Warhol |
 | First Name| String |  | Andy |
 | Role | String |  | Primary Maker|
 | Culture Group | String |  | American |
+| CatRais | String || 497 |
 
 # Usage Guidelines
 The dataset contains the data and metadata of approximately ???? objects in the collection of The Andy Warhol Museum in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. There are a few limitations:
