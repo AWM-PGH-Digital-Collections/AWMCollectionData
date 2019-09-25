@@ -47,7 +47,7 @@ Please be aware that the dataset may contain incomplete data and/or errors. AWM 
 
 At AWM, research is always ongoing, and so our understanding of these objects and their metadata are subject to change. This dataset will be updated on a regular basis to reflect our current best understanding of the objects. You are advised to use, or update to, the most current version of the dataset for best accuracy.
 
-If you have identified errors in the dataset, or have additional information to add, we welcome your feedback! [Please contact us.](mailto:womackb@warhol.org).
+If you have identified errors in the dataset, or have additional information to add, we welcome your feedback! [Please contact us](mailto:womackb@warhol.org).
 
 Thanks!
 
