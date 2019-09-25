@@ -38,7 +38,7 @@ Please contact us if you have any questions.
 # Lack of Images in the Data Set
 Images are not covered under the same license as the dataset.
 
-If you would like to license images of artworks in AWM’s collection, please contact the [Rights and Reproduction Department] (mailto:rights@warhol.org).
+If you would like to license images of artworks in AWM’s collection, please contact the [Rights and Reproduction Department](mailto:rights@warhol.org).
 
 # Dataset Integrity
 Collections data is provided for the purposes of exploration, education, experimentation, and fun, but it is to be used at your own risk.
