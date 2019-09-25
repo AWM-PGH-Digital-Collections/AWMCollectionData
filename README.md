@@ -13,21 +13,21 @@ The data is released as a CSV dump. Please note that both the CSV may contain ne
 
 | Header |   Type   |   Description   |   Example    |
 |----------|:---------:|:----------:|:----------:|
-| Title | onClick | 1, 2, 3, 4, 5, or 6 ||
-| Dated | 1 + 2 | 3 ||
-| Medium | 22 + 23 + 25 + 21 | 101 = stop program ||
-| Object Number | onClick | stop program ||
-| Object ID | onClick | give control to second object ||
-| Credit Line | 1 | give control to second object ||
-| On View | 100+ | game over ||
-| Description | onClick | reset ||
-| Provenance | name, score | Bob, 100 ||
-| Classification |  |  ||
-| Constituents |  |  ||
-| Last Name |  |  ||
-| First Name|  |  ||
-| Role |  |  ||
-| Cluture Group |  |  ||
+| Title | String | 1, 2, 3, 4, 5, or 6 ||
+| Dated | String | 3 ||
+| Medium | Memo | 101 = stop program ||
+| Object Number | String | stop program ||
+| Object ID | Number | give control to second object ||
+| Credit Line | Memo | give control to second object ||
+| On View | Number | game over ||
+| Description | Memo | reset ||
+| Provenance | Memo | Bob, 100 ||
+| Classification | String |  ||
+| Constituents | String |  ||
+| Last Name | String |  ||
+| First Name| String |  ||
+| Role | String |  ||
+| Culture Group | String |  ||
 # Usage Guidelines
 The dataset contains the data and metadata of approximately ???? objects in the collection of The Andy Warhol Museum in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. There are a few limitations:
 
