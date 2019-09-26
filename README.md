@@ -16,12 +16,12 @@ The data is released as a CSV dump. Please note that the CSV file may contain ne
 | Title | String | The main title that identifies the object or artwork. | Judith Green |
 | Date | String | The human readable date of creation for the object. Note that this is a string and may not be a valid date. | 1963 |
 | Medium | Memo | Material of which this object/artwork is made. | acrylic and silkscreen ink on linen |
-| Dimensions | String | The dimensions of the object| 20 x 16 in. (50.8 x 40.6 cm.) |
+| Dimensions | String | The dimensions of the object. | 20 x 16 in. (50.8 x 40.6 cm.) |
 | Classification | String | The name of a group to which the work belongs within the museum's classification scheme, based on similar characteristics. | Paintings |
 | Description | Memo | A physcial description of the object. | Painting. Black silkscreen ink on bright orange acrylic paint on linen. Portrait of a woman (Judith Green) with dark hair, facing the viewer, smiling, mouth open, head tilted to the right, wearing a turtleneck. Not signed or dated on recto.  Verso unexamined (backing board). |
 | Object Number | String | This is the number assigned by the museum when it accessions an object. | 1998.1.72 |
 | Object ID | Number | A unique number that identifies the record of the object in the collections database. | 4825 |
-| CatRais | String | Warhol catalogue raisonné number| 497 |
+| CatRais | String | Warhol catalogue raisonné number. | 497 |
 | On View | Number | 0 = no, 1 = yes | 0 |
 | Provenance | Memo | The ownership history of an object/artwork.  | Estate of Andy Warhol; The Andy Warhol Foundation for the Visual Arts |
 | Credit Line | Memo | Identifies and gives credit to the person, foundation, or method by which the object was acquired. | The Andy Warhol Museum, Pittsburgh; Founding Collection, Contribution The Andy Warhol Foundation for the Visual Arts, Inc. |
@@ -29,7 +29,7 @@ The data is released as a CSV dump. Please note that the CSV file may contain ne
 | First Name| String | First Name of the artist/creator. | Andy |
 | Role | String | Describes a person’s involvement with this object. | Primary Maker|
 | Culture Group | String | The nationality of the artist/creator.| American |
-| Constituents | String | Describes a person’s association with this object | Andy Warhol (artist), Judith Green (depicted) |
+| Constituents | String | Describes a person’s association with this object. | Andy Warhol (artist), Judith Green (depicted) |
 
 # Usage Guidelines
 The dataset contains the data and metadata of approximately 54129 objects in the collection of The Andy Warhol Museum in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. There are a few limitations: At present, primary artist birth and death dates are not included. These dates are not seperate data fields in our collections management system.
