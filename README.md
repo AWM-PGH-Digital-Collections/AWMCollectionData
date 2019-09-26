@@ -1,6 +1,6 @@
 # AWMCollectionData - A public, downloadable CSV file of The Andy Warhol Museum's collection data.
 
-## Welcome to the Andy Warhol Musuem's Collection Data Set! In an attempt to make our collection accessible, to adhere to current trends regarding Open Access, and to aid researchers and art enthusiasts who are interested in our collection, we are making our collection data public and downloadable as a CSV file.
+## Welcome to the Andy Warhol Musuem's Collection Data Set! In an attempt to create transparency, to adhere to current trends regarding Open Access, and to aid researchers and art enthusiasts who are interested in our collection, we are making our collection data public and downloadable as a CSV file.
 
 In this repository, you will find data that pertains to all accessioned objects in our collection, a description of the data, and some guidelines on using the data. Please take a minute to familiarize yourself with the structure and guidelines below.
 
@@ -31,7 +31,7 @@ The data is released as a CSV dump. Please note that the CSV file may contain ne
 | CatRais | String | Warhol catalogue raisonné number| 497 |
 
 # Usage Guidelines
-The dataset contains the data and metadata of approximately ???? objects in the collection of The Andy Warhol Museum in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. There are a few limitations: At present, primary artist birth and death dates are not included. These dates are not seperate data fields in our collections management system. Warhol's Time Capsules are not included in this data set.
+The dataset contains the data and metadata of approximately 54129 objects in the collection of The Andy Warhol Museum in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. There are a few limitations: At present, primary artist birth and death dates are not included. These dates are not seperate data fields in our collections management system.
 
 [Please contact us if you have any questions.](mailto:womackb@warhol.org)
 
