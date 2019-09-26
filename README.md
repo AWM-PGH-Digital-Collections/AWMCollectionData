@@ -57,7 +57,7 @@ Please note that we will not accept pull requests for the data in this repositor
 # Attribution
 Our dataset is being offered under [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-We respectfully ask that you acknowledge AWM as a source wherever possible, in order to preserve a link to the dataset. By providing acknowledgement or citation, you enable others to verify, replicate, and further explore your presentation and interpretation of our data.
+We respectfully ask that you acknowledge AWM as a source wherever possible, in order to preserve a link to the dataset. By providing acknowledgement or citation, you enable others to verify, replicate, and further explore your presentation and interpretation of our data. Attribution supports future efforts to release other data. It also reduces the amount of ‘orphaned data’, helping retain links to authoritative sources.
 
 # No Endorsement/Representation
 Use of this dataset does not grant or imply AWM’s approval, commission, or support of your work. AWM retains the rights to all of its trademarks, and they are not part of the dataset. If you transform or modify the dataset, you must clearly distinguish the resulting work as having been modified from the AWM dataset. If you create a derivative dataset from the AWM dataset, we ask that you consider releasing the derivative under a CC0 license, which mirrors the licensing of the AWM dataset.
