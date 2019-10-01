@@ -32,9 +32,17 @@ The data is released as a CSV dump. Please note that the CSV file may contain ne
 | Constituents | String | Describes a person’s association with this object. | Andy Warhol (artist), Judith Green (depicted) |
 
 # Usage Guidelines
-The dataset contains the data and metadata of approximately 54129 objects in the collection of The Andy Warhol Museum in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. There are a few limitations: At present, primary artist birth and death dates are not included. These dates are not seperate data fields in our collections management system.
+The dataset contains the data and metadata of approximately 45842 accessioned objects in the collection of The Andy Warhol Museum in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible.
 
 [Please contact us if you have any questions.](mailto:womackb@warhol.org)
+
+  1. Download the dataset.
+  2. Open Excel.
+  3. Choose "Blank Workbook."
+  4. Choose "Data" then choose "From Text/CSV."
+  5. Find the dataset and import it.
+  6. A sample of the dataset will pop up. Change the "File Origin" to "Unicode (UTF-8)."
+  7. Click on "Load."
 
 # Lack of Images in the Data Set
 Images are not covered under the same license as the dataset.
