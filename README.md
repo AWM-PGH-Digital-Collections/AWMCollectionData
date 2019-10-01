@@ -1,13 +1,13 @@
 # AWMCollectionData - A public, downloadable CSV file of The Andy Warhol Museum's collection data.
 
-## Welcome to the Andy Warhol Musuem's Collection Data Set! In an attempt to create transparency, to adhere to current trends regarding Open Access, and to aid researchers and art enthusiasts who are interested in our collection, we are making our collection data public and downloadable as a CSV file.
+## Welcome to the Andy Warhol Musuem's Collection Dataset! In an attempt to create transparency, to adhere to current trends regarding Open Access, and to aid researchers and art enthusiasts who are interested in our collection, we are making our collection data public and downloadable as a CSV file.
 
 In this repository, you will find data that pertains to all accessioned objects in our collection, a description of the data, and some guidelines on using the data. Please take a minute to familiarize yourself with the structure and guidelines below.
 
 Your feedback and input is always welcome. If you’ve got questions or suggestions, please send them to us with “AWM Dataset” in the subject header of your [email](mailto:womackb@warhol.org).
 
 # Data Structure
-This data release includes nearly all accessioned works in our database. It contains basic data for each work.
+This dataset release includes all accessioned objects in our database. It contains basic data for each work.
 
 The data is released as a CSV dump. Please note that the CSV file may contain newlines (\n) within any text field, and they often appear within the provenance, medium, description and credit_line fields.
 
@@ -44,7 +44,7 @@ The dataset contains the data and metadata of approximately 45842 accessioned ob
   6. A sample of the dataset will pop up. Change the "File Origin" to "Unicode (UTF-8)."
   7. Click on "Load."
 
-# Lack of Images in the Data Set
+# Lack of Images in the Dataset
 Images are not covered under the same license as the dataset.
 
 If you would like to license images of artworks in AWM’s collection, please contact the [Rights and Reproduction Department](mailto:rights@warhol.org).
