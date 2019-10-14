@@ -9,7 +9,7 @@ Your feedback and input is always welcome. If you’ve got questions or suggesti
 # Data Structure
 This dataset release includes all accessioned objects in our database. It contains basic data for each work.
 
-The data is released as a CSV dump. Please note that the CSV file may contain newlines (\n) within any text field, and they often appear within the provenance, medium, description and credit_line fields.
+The data is released as a CSV dump. Please note that the CSV file may contain newlines (\n) within any text field, and they often appear within the provenance, medium, description and credit line fields.
 
 | Header |   Type   |   Description   |   Example    |
 |----------|:---------:|:----------:|:----------:|
