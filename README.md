@@ -1,6 +1,6 @@
 # AWMCollectionData - A public, downloadable CSV file of The Andy Warhol Museum's collection data.
 
-## Welcome to the Andy Warhol Musuem's Collection Dataset! In an attempt to create transparency, to adhere to current trends regarding Open Access, and to aid researchers and art enthusiasts who are interested in our collection, we are making our collection data public and downloadable as a CSV file.
+## Welcome to the Andy Warhol Musuem's Collection Dataset. In an attempt to create transparency, to adhere to current trends regarding Open Access, and to aid researchers and art enthusiasts who are interested in our collection, we are making our collection data public and downloadable as a CSV file.
 
 In this repository you will find data that pertains to all accessioned objects in our collection, a description of the data, and some guidelines on using the data. Please take a minute to familiarize yourself with the structure and guidelines below.
 
