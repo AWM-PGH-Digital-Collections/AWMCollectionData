@@ -4,7 +4,7 @@
 
 In this repository you will find data that pertains to all accessioned objects in our collection, a description of the data, and some guidelines on using the data. Please take a minute to familiarize yourself with the structure and guidelines below.
 
-Your feedback and input is always welcome. If you’ve got questions or suggestions, please send them to us with “AWM Dataset” in the subject header of your [email](mailto:womackb@warhol.org).
+Your feedback and input is always welcome. If you have questions or suggestions, please send them to us with “AWM Dataset” in the subject header of your [email](mailto:womackb@warhol.org).
 
 # Data Structure
 This dataset release includes all accessioned objects in our database. It contains basic data for each work.
