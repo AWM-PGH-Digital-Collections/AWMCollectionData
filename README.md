@@ -73,3 +73,5 @@ Use of this dataset does not grant or imply AWM’s approval, commission, or sup
 
 # Acknowledgement
 [The Warhol](https://www.warhol.org/) owes a debt to our sister institution, [CMOA](https://cmoa.org/), and to the [MoMA](https://www.moma.org/), [Tate](https://www.tate.org.uk/), and [Cooper Hewitt Museum](https://www.cooperhewitt.org/) for setting the example of how to make a large data collection open and accessible to the public in the most straightforward way possible.
+
+Thank you!
