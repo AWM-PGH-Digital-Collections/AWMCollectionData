@@ -30,6 +30,7 @@ The data is released as a CSV dump. Please note that the CSV file may contain ne
 | Role | String | Describes a person’s involvement with this object. | Primary Maker|
 | Culture Group | String | The nationality of the artist/creator.| American |
 | Constituents | String | Describes a person’s association with this object. | Andy Warhol (artist), Judith Green (depicted) |
+| Name/Heading | String | The name of a type of object to which the work belongs within the museum's classification scheme, based on similar characteristics. | Paintings |
 
 # Usage Guidelines
 The dataset contains the data and metadata of approximately 45842 accessioned objects in the collection of The Andy Warhol Museum in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible.
